@@ -1,0 +1,105 @@
+body{
+    background-image: url('IMG_5790.JPG');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-attachment:fixed
+}
+.div-box1{
+    border: double 1px black;
+    max-width: 720px;
+    height: 350px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+  /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    padding-top: 100px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    background-color: white;
+}
+
+.para{
+    max-width: 720px;
+    margin: 0 auto;
+}
+.heading{
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', cursive;
+    font-size: 4em;
+}
+ul.error-list{
+    list-style-type: square;
+}
+
+.div-box2{
+    border: double 1px black;
+    max-width: 720px;
+    height: 740px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+  /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    padding-top: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    padding-left: 200px;
+    background-color: aqua;
+    margin-top: 20px;
+}
+.common-label{
+    color: black;
+}
+.common-div{
+    margin-right: 110px;
+}
+
+.form-div{
+    margin-bottom: 60px;
+}
+
+.div-box3{
+    border: double 1px black;
+    max-width: 720px;
+    height: 600px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+  /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    padding-top: 80px;
+    padding-right: 100px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    background-color:aqua;
+    
+}
+.head-div{
+    width: 400px;
+    top: 0;
+    position: absolute;
+    font-family: 'Times New Roman', cursive;
+}
+
+.div-text{
+    color:black;
+}
+
+.register-head{
+    color:black;
+}
+article p {
+    font-family: 'Times New Roman', cursive;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.link-styles{
+    font-family: 'Times New Roman', cursive;
+    color: black;
+}
+
+
